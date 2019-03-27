@@ -1,0 +1,54 @@
+html {
+  background: url("../../../images/lab-table.jpg") no-repeat top center scroll;
+  background-size: cover;
+}
+
+body{
+
+}
+
+#head {
+  color: white;
+  font-size: 5vw;
+
+  background-size: cover;
+  background: rgb(0, 0, 0);
+}
+#headContainer {
+  display: flex;
+  justify-content: center;
+
+}
+
+#infoContainer{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+#Info {
+  background-size: contain;
+  background: rgb(255, 0, 255, 0.5);
+}
+
+#images {
+  display: flex;
+  justify-content: space-between;
+}
+
+#penguin {
+  height: 15%;
+  width: 15%;
+}
+
+#next {
+  position: fixed;
+  margin-left: 90vw;
+  margin-top: 1vh;
+
+}
+
+#arrow{
+  height: 40%;
+  width: 40%;
+}
