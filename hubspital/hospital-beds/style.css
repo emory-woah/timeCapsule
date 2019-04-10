@@ -36,6 +36,13 @@ html {
   width: 25%;
 }
 
+#backarrow{
+  height: 75%;
+  width: 25%;
+  transform: rotate(180deg);
+}
+
+
 #container{
   text-align: center;
   margin-top: 60vh;

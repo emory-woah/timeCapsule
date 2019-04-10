@@ -36,3 +36,14 @@ html {
   left: 50vw;
   top: 80vh;
 }
+
+#back{
+  position: fixed;
+  left: 2vw;
+  top:60vh;
+}
+#backarrow{
+  transform: rotate(-90deg);
+  height: 9%;
+  width: 9%;
+}
