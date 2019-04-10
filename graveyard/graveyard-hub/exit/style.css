@@ -1,0 +1,55 @@
+html {
+  background: url("../../../images/left.turn.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+#head {
+  font-size: 24px;
+
+  background-size: cover;
+  background: rgb(0, 0, 0, 0.4);
+}
+
+#head2 {
+  font-size: 18px;
+
+  background-size: cover;
+  background: rgb(50, 0, 0, 0.4);
+}
+
+#headContainer {
+  display: flex;
+  justify-content: center;
+
+}
+
+#info{
+  position: fixed;
+  margin-left: 15vw;
+  width: 150px;
+  background: rgb(50, 0, 0, 0.4);
+}
+
+#enter{
+  position: fixed;
+  left: 50vw;
+  top: 40vh;
+}
+
+#arrow{
+  transform: rotate(-90deg);
+  height: 9%;
+  width: 9%;
+
+}
+
+#back{
+  position: fixed;
+  left: 40vw;
+  top: 80vh;
+}
+#backarrow{
+  transform: rotate(180deg);
+  height: 9%;
+  width: 9%;
+}
