@@ -1,5 +1,5 @@
 html {
-  background: url("../images/lab.jpg") no-repeat center center fixed;
+  background: url("../images/hallway.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -26,24 +26,24 @@ html {
 }
 
 #arrow{
-  height: 10%;
-  width: 10%;
+  transform: rotate(90deg);
+  height: 15%;
+  width: 15%;
 
 }
 
 #enter{
   position: fixed;
-  left: 50vw;
-  top: 80vh;
+  left: 55vw;
+  top: 30vh;
 }
 
 #back{
   position: fixed;
-  left: 2vw;
-  top:60vh;
+  left:35vw;
+  top:20vh;
 }
 #backarrow{
-  transform: rotate(-90deg);
-  height: 9%;
-  width: 9%;
+  height: 8%;
+  width: 8%;
 }
