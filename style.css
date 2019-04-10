@@ -28,3 +28,12 @@ html {
   left: 48vw;
   top: 90vh;
 }
+
+#infostart{
+
+  width: 15vw;
+
+  background-image: radial-gradient(rgba(0,0,0,1), rgba(255,255,255,0));
+
+  color: white;
+}

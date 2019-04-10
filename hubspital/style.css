@@ -1,5 +1,5 @@
 html {
-  background: url("../images/page.2.entrance.png") no-repeat center center fixed;
+  background: url("../images/first.room.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -50,5 +50,5 @@ html {
 #enter{
   position: fixed;
   left: 50vw;
-  top: 80vh;
+  top: 30vh;
 }
