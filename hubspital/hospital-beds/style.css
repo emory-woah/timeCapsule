@@ -1,5 +1,5 @@
 html {
-  background: url("../../images/hospital-beds.jpeg") no-repeat center center fixed;
+  background: url("../../images/hospital-beds.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -32,13 +32,13 @@ html {
 }
 
 #arrow{
-  height: 75%;
-  width: 25%;
+  height: 25%;
+  width: 15%;
 }
 
 #backarrow{
-  height: 75%;
-  width: 25%;
+  height: 25%;
+  width: 15%;
   transform: rotate(180deg);
 }
 
