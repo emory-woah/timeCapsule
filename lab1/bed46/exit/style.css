@@ -1,0 +1,63 @@
+html {
+  background: url("../../../images/page.1.hospital.png") no-repeat center center fixed;
+  background-size: cover;
+}
+
+#head {
+  font-size: 24px;
+
+  background-size: cover;
+  background: rgb(0, 0, 0, 0.4);
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+height: 65vh;
+}
+
+#arrow{
+  height: 5%;
+  width: 5%;
+}
+
+#enter1{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+#info{
+  display: flex;
+  align-items: center;
+
+  font-size: 4vw;
+
+  padding: 10px;
+  background: rgba(0,0,0,.7);
+}
+
+
+#infostart{
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: -30px;
+
+  text-align: center;
+
+  color: white;
+}
+
+#clockDiv{
+  font-size: 10vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background: rgb(0,0,0,.5);
+  background-size: contain;
+  width: 100vw;
+  margin-left: -8px;
+}

@@ -1,0 +1,46 @@
+html {
+  background: no-repeat center center fixed;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 1) 10%, rgba(0, 0, 0, 0)), url("../../../images/contra.png");
+  background-size: cover;
+
+}
+
+#head {
+  font-size: 5vh;
+  color: white;
+
+}
+
+#headContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: 5%;
+
+}
+
+#info{
+  width: 15vw;
+  color: white;
+}
+
+#arrow{
+  height: 10%;
+  width: 10%;
+
+}
+
+#enter1{
+  position: absolute;
+right: 40vw;
+  top:70vh;
+
+  transform: rotate(180deg);
+}
+
+#backarrow{
+  height: 10vh;
+  width: 5vw;
+
+  transform: rotate(270deg);
+}
